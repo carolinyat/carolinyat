@@ -1,8 +1,7 @@
 ### Olá! Meu nome é Caroliny Abreu 🤗
 
 - 👩🏻‍🎓 Sou estudante de Engenharia de Software pelo Inatel
-- 👩🏻‍💻 Atualmente estou atuando como estagiária Fullstack
-- 📚 Estou aprendendo Node.js
+- 📚 Estou aprendendo PHP
 - 😄 Pronomes: Ela/dela
 
 <div align="center">
