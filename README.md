@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Caroliny Abreu 🤗
 
 - 👩🏻‍🎓 Sou estudante de Engenharia de Software pelo Inatel
-- 📚 Estou aprendendo React
+- 📚 Trabalho com PHP, Drupal, JavaScript, HTML e CSS
 - 😄 Pronomes: Ela/dela
 
 
