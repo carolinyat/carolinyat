@@ -1,4 +1,4 @@
-### Olá! Meu nome é Caroliny Abreu 🤗
+### Olá! 
 
 - 👩🏻‍🎓 Sou estudante de Engenharia de Software pelo Inatel
 - 📚 Trabalho com PHP, Drupal, JavaScript, HTML e CSS
