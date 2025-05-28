@@ -2,8 +2,6 @@
 
 - 👩🏻‍🎓 Sou estudante de Engenharia de Software pelo Inatel
 - 📚 Trabalho com PHP, Drupal, JavaScript, HTML e CSS
-- 😄 Pronomes: Ela/dela
-
 
 
 <div style="display: inline_block"><br>
