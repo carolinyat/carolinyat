@@ -4,10 +4,6 @@
 
 <p>Hello! I'm Caroliny Abreu! But you can call me Carol 😁 <br> I'm a Software Engineer, graduated at Inatel.</p>
 
-<h4>🌱 Learning and Sharing</h4> 
-<p>I am always looking for opportunities to learn new concepts, develop practical skills, and collaborate with the tech community. I strive to share my knowledge and contribute to projects, fostering growth both for myself and others.</p>
-
-
 </br>
 
 <p>
