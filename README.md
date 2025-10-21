@@ -36,6 +36,5 @@
 <h3>Statistics GitHub ⚡</h3>
 
 <p>
-  <img align="left" alt="GitHub Stats" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=carolinyat" alt="GitHub Statistics" />
   <img align="left" alt="Top Languages" height="370" width="370" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinyat" alt="Top Languages" />
 </p>
