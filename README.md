@@ -1,25 +1,41 @@
-- 👩🏻‍🎓 Estudante de Engenharia de Software pelo Inatel
-- 📚 Trabalho com PHP, Drupal, JavaScript, HTML e CSS
+<h1>💻 Caroliny Abreu</h1>
+
+*Software Engineer*
+
+<p>Hello! I'm Caroliny Abreu! But you can call me Carol 😁 <br> I'm a Software Engineer, graduated at Inatel.</p>
+
+<h4>🌱 Learning and Sharing</h4> 
+<p>I am always looking for opportunities to learn new concepts, develop practical skills, and collaborate with the tech community. I strive to share my knowledge and contribute to projects, fostering growth both for myself and others.</p>
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carol-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Carol-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
-  <img align="center" alt="Carol-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Carol-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
- <!– <img align="right" alt="Carol-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1049344605059039365/1049344644108001292/download20221201121856.png">
-</div> 
-  
-  ##
-  
-<div>
-  <a href = "mailto:caroliny.a.t@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caroliny-abreu-teixeira-3783041b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</br>
 
- 
+<p>
+  <a href="https://www.linkedin.com/in/caroliny-abreu-teixeira-3783041b1/">
+      <img alt="Linkedin" title="Connect with me on Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white""/>
+  </a>
+</p>
 
+<h3>Skills 🔥</h3>
 
-</div>
+<p align="left">
+    <img alt="Python" title="Python" src="https://skillicons.dev/icons?i=python" />
+    <img alt="HTML" title="HTML" style="padding: 0 1px;" src="https://skillicons.dev/icons?i=html" />
+    <img alt="CSS" title="CSS" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=css" />
+    <img alt="JavaScript" title="JavaScript" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=javascript" />
+    <img alt="TypeScript" title="TypeScript" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=typescript" />
+    <img alt="React" title="React" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=react" />
+    <img alt="Node.js" title="Node.js" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=nodejs" />
+    <img alt="C++" title="C++" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=cpp" />
+    <img alt="MongoDB" title="MongoDB" style="padding: 0 2px;" src="https://skillicons.dev/icons?i=mongo" />
+    <img alt="Git" title="Git" src="https://skillicons.dev/icons?i=git" />
+    <img alt="Figma" title="Figma" src="https://skillicons.dev/icons?i=figma" />
+    <img alt="Angular" title="Angular" src="https://skillicons.dev/icons?i=angular" />
+</p>
+
+<h3>Statistics GitHub ⚡</h3>
+
+<p>
+  <img align="left" alt="GitHub Stats" height="175" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=Izalp&show_icons=true&theme=midnight-purple" alt="GitHub Statistics" />
+  <img align="left" alt="Top Languages" height="370" width="370" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izalp&hide_progress=true&theme=midnight-purple" alt="Top Languages" />
+</p>
