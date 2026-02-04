@@ -13,4 +13,4 @@
 
 </br>
 
-![Snake animation](https://github.com/seu-usuário-aqui/carolinyat/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/carolinyat/carolinyat/blob/output/github-contribution-grid-snake.svg)
