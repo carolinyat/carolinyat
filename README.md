@@ -1,7 +1,5 @@
 ## Hi there! 👋
 
-## Howdy, stranger! 👋
-
 [![Badge](https://img.shields.io/static/v1?label=&message=𝗖𝗔𝗥𝗢𝗟𝗜𝗡𝗬&color=informational&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroliny-abreu-teixeira-3783041b1/)](https://www.linkedin.com/in/caroliny-abreu-teixeira-3783041b1/)
 
 
