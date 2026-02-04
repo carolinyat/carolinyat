@@ -2,7 +2,8 @@
 
 ## Howdy, stranger! 👋
 
-[![Badge](https://img.shields.io/static/v1?label=&message=𝗖%20𝗔%20𝗥%20𝗢%20𝗟%20𝗜%20𝗡%20𝗬&color=informational&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroliny-abreu-teixeira-3783041b1/)](https://www.linkedin.com/in/caroliny-abreu-teixeira-3783041b1/)
+[![Badge](https://img.shields.io/static/v1?label=&message=𝗖𝗔𝗥𝗢𝗟𝗜𝗡𝗬&color=informational&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroliny-abreu-teixeira-3783041b1/)](https://www.linkedin.com/in/caroliny-abreu-teixeira-3783041b1/)
+
 
 <img align='right' src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4772zxp2lxyohmv5r7928lcgmustzp8nn15gvn55l0&rid=giphy.gif&ct=g" width="230">
 
