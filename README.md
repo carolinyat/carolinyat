@@ -13,8 +13,8 @@
 
 </br>
 
-<h3>Statistics GitHub ⚡</h3>
-
-<p>
-  <img align="left" alt="Top Languages" height="370" width="370" style="padding-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinyat" alt="Top Languages" />
-</p>
+<div>
+<a href="https://github.com/carolinyat">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinyat&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinyat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
